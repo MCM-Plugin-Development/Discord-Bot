@@ -1,0 +1,18 @@
+- Queue Automation
+    - `queue add <name>` (prompts user through a series of questions) 
+        - What's the name for this request?
+        - Who's the freelancer assigned to this request?
+        - Who's the client?
+    - `queue edit <messageId>` (prompts user through a series of questions)
+        - What's the name for this request?
+        - Who's the freelancer assigned to this request?
+        - Who's the client?
+    - `queue remove [reason]`
+- Ticket Automation
+    - All tickets are logged to a '.txt' for later reference
+    - `ticket new <name>` aliases: [create, open, make]
+    - `ticket close [time]` (close a ticket with a optional delay) (e.g. "6h") aliases: [close, end, delete]
+    - `ticket adduser <user>`
+- All bot actions are logged to channel(s)
+- Bot responds to keywords / key phrases
+    - "Can someone help me?" -> "@Moderator"
