@@ -10,6 +10,7 @@
     - `queue remove [reason]`
 - Ticket Automation
     - All tickets are logged to a '.txt' for later reference
+    - Ticket command messages auto delete themselves after `x` seconds
     - `ticket new <name>` aliases: [create, open, make]
     - `ticket close [time]` (close a ticket with a optional delay) (e.g. "6h") aliases: [close, end, delete]
     - `ticket adduser <user>`
