@@ -17,3 +17,4 @@
 - All bot actions are logged to channel(s)
 - Bot responds to keywords / key phrases
     - "Can someone help me?" -> "@Moderator"
+- GMail Webhooks from `calixstudios1@gmail.com` to Staff Discord Channel Feed
