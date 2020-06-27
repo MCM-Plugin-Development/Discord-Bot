@@ -20,3 +20,4 @@
 - GMail Webhooks from `calixstudios1@gmail.com` to Staff Discord Channel Feed
 - Automatically add the role "Client" when a user creates a new ticket and auto remove it when all the ticket(s) for that user are closed
 - Add a MC-Market webhook whenever we get a new review
+- Webhooks for 'Calix Stuidio requests' google form submissions
